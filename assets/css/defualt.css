@@ -1,0 +1,54 @@
+
+#textsize{
+    font-size: 12px !important;
+}
+
+.h1{
+   font-size: 39px !important;
+}
+.logo{
+    font-weight: 700 !important;
+}
+.left-100{
+    left: 25px !important;
+    
+}
+
+#navwhidth{
+    max-width: 500px !important;
+}
+#templateslid{
+    background-color: #efefef;
+}
+
+#templateslid .carousel-control-prev{
+    font-size:45px !important ;
+    color: #a3ccad;
+}
+
+#templateslid .carousel-control-next{
+    font-size:45px !important ;
+    color: #a3ccad;
+}
+.bg-light{
+    background-color: #e9eef5 !important;
+}
+
+.h2{
+    font-size: 24px !important;
+}
+
+.border-light{
+    border-color: #2d343f !important;
+}
+
+#ff ul.footer-icons li{
+    height: 2.5em;
+    width: 2.5em;
+    line-height: 2.6em;
+}
+
+#ff ul.footer-icons li:hover{
+    background-color: #cfd6e1;
+transition: .5s;
+}
